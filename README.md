@@ -1,7 +1,7 @@
 <h1 align="center">Tic Tac Toe</h1>
 
 <div align="center">
-<img src="https://github.com/CodeStudio-Content/Python-Project-Video/blob/main/tic%20tack%20toe.gif"  width="800" height="500">
+<img src="https://github.com/Fawaz-Khan-R/Tic-Tac-Toe/blob/main/tic%20tac%20toe.gif"  width="800" height="500">
    
 
 
